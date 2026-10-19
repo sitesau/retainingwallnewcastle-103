@@ -1,0 +1,22 @@
+{
+  "wheel_id": 469,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-103",
+  "project": "retaining-wall-builders-newcastle-red-flags-6877861820e38bef498",
+  "parent_t1_ref": "retainingwallnewcastle-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall builders newcastle red flags",
+  "intended_url": "https://sitesau.github.io/retainingwallnewcastle-103/",
+  "tier": "T2",
+  "writeback_nonce": "b4f12b6f1ebd8d6a",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-newcastle-3ef660b70fd3970e8469d07ec8/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-newcastle-3ef660b70fd3970e8469d07ec8/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
